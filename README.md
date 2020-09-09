@@ -5,6 +5,4 @@ hello there
 General kenobi
 Your are a bold one
 
-Hello there
-
 Ah yes, a negotiator
